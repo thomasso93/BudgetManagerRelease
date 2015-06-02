@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "Amount": 42.14,
+    "Name": "Hantle",
+    "Category": "Sport",
+    "Date": "21/05/2015"
+  },
+  {
+    "Id": 2,
+    "Amount": 120.53,
+    "Name": "Sztanga",
+    "Category": "Sport",
+    "Date": "26/05/2015"
+  },
+  {
+    "Id": 3,
+    "Amount": 90.99,
+    "Name": "Ławeczka",
+    "Category": "Sport",
+    "Date": "22/05/2015"
+  },
+  {
+    "Id": 4,
+    "Amount": 21.35,
+    "Name": "Wycieczka do McDonalds",
+    "Category": "Żywność",
+    "Date": "4/05/2015"
+  },
+  {
+    "Id": 5,
+    "Amount": 53.21,
+    "Name": "Naleśniki na mieście",
+    "Category": "Żywność",
+    "Date": "13/05/2015"
+  },
+  {
+    "Id": 6,
+    "Amount": 12.2,
+    "Name": "Ksero notatek",
+    "Category": "Nauka",
+    "Date": "18/05/2015"
+  },
+  {
+    "Id": 7,
+    "Amount": 216.0,
+    "Name": "Kurs programowania",
+    "Category": "Nauka",
+    "Date": "24/05/2015"
+  },
+  {
+    "Id": 9,
+    "Amount": 23.0,
+    "Name": "Ksiażka",
+    "Category": "Nauka",
+    "Date": "23/05/2015"
+  },
+  {
+    "Id": 10,
+    "Amount": 1652.42,
+    "Name": "Koncert",
+    "Category": "Rozrywka",
+    "Date": "3/05/2015"
+  },
+  {
+    "Id": 11,
+    "Amount": 2300.0,
+    "Name": "Laptop",
+    "Category": "Rozrywka",
+    "Date": "12/05/2015"
+  },
+  {
+    "Id": 12,
+    "Amount": 60.0,
+    "Name": "Karnet na siłownie",
+    "Category": "Sport",
+    "Date": "1/05/2015"
+  },
+  {
+    "Id": 13,
+    "Amount": 34.0,
+    "Name": "Mysz komputerowa",
+    "Category": "Nauka",
+    "Date": "4/05/2015"
+  },
+  {
+    "Id": 14,
+    "Amount": 3210.0,
+    "Name": "Zeszyt",
+    "Category": "Nauka",
+    "Date": "4/05/2015"
+  },
+  {
+    "Id": 16,
+    "Amount": 45.3,
+    "Name": "Opłata za gaz",
+    "Category": "Opłaty stałe",
+    "Date": "4/05/2015"
+  },
+  {
+    "Id": 15,
+    "Amount": 40.0,
+    "Name": "Korepetycje",
+    "Category": "Nauka",
+    "Date": "4/05/2015"
+  },
+  {
+    "Id": 17,
+    "Amount": 125.0,
+    "Name": "Buty",
+    "Category": "Zachcianki",
+    "Date": "30/05/2015"
+  }
+]

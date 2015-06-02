@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Amount": 1242.14,
+    "Name": "Wypłata",
+    "Category": "Rabunek",
+    "Date": "21/05/2015"
+  },
+  {
+    "Id": 2,
+    "Amount": 1300.0,
+    "Name": "Wypłata czerwiec",
+    "Category": "Wypłata",
+    "Date": "1/06/2015"
+  },
+  {
+    "Id": 3,
+    "Amount": 1000.0,
+    "Name": "stypendium",
+    "Category": "Nagroda",
+    "Date": "1/06/2015"
+  }
+]
